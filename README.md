@@ -1,3 +1,8 @@
+---
+
+[Visit Our Website](https://your-site.com)  
+![Our Logo](https://your-site.com/logo.png)
+
 # DuckDuckGo Web Search MCP Server
 
 This project provides an MCP (Model Context Protocol) server that allows you to search the web using the DuckDuckGo search engine and optionally fetch and summarize the content of the found URLs.
@@ -71,3 +76,8 @@ This project provides an MCP (Model Context Protocol) server that allows you to 
 ## License
 
 This project is licensed under the MIT License. (Add a license file if you want to specify a license).
+
+
+---
+
+Thank you @kouui
